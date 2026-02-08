@@ -1,0 +1,5 @@
+com\example\eseshopsearch\config\EsClientConfig.class
+com\example\eseshopsearch\entity\Product.class
+com\example\eseshopsearch\controller\ProductSearchController.class
+com\example\eseshopsearch\EsEshopSearchApplication.class
+com\example\eseshopsearch\service\ProductSearchService.class
